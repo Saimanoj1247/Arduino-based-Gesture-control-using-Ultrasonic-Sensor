@@ -1,4 +1,4 @@
-import Serial                                      # add Serial library for serial communication
+import serial                                      # add Serial library for serial communication
 import pyautogui                                   # add pyautogui library for programmatically controlling the mouse and keyboard.
 import time 
 import statistics
