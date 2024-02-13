@@ -1,4 +1,4 @@
-# Arduino-based-Gesture-control-using-Ultrasonic-Sensor
+# Arduino-based-Gesture-control
 **Our main objective in proposing this model is to minimize the usage of external input/output devices to interact with the computer. Instead, we use sensors that map our hand gestures to perform certain actions on the device. The primary benefit of employing these sensors for interacting with electronic devices is that they can be very affordable and help in the development of touchless systems.**
 
 # Applications controlled using gestures
